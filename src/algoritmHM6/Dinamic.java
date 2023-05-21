@@ -1,4 +1,4 @@
-package algortmHM6;
+package algoritmHM6;
 
 public class Dinamic {
     public static void main(String[] args) {
